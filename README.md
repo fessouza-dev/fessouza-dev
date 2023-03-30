@@ -30,4 +30,5 @@ My name is João V F Souza, but I go by the nickname Fessouza (a combination of 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fessouza-dev&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
